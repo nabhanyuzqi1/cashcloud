@@ -30,7 +30,13 @@ migrate_working_dir/
 .packages
 .pub-cache/
 .pub/
-/build/
+/build/classes/
+/build/compileSync/
+/build/js/
+/build/kotlin/
+/build/processedResources/
+/build/reports/
+/build/tmp/
 
 # Symbolication related
 app.*.symbols
