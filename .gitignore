@@ -37,7 +37,7 @@ migrate_working_dir/
 /build/processedResources/
 /build/reports/
 /build/tmp/
-
+/build/snapshot/
 # Symbolication related
 app.*.symbols
 
